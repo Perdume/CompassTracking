@@ -1,0 +1,4 @@
+name: CompassTracking
+version: '${project.version}'
+main: org.perdume.compasstracking.CompassTracking
+api-version: '1.20'
